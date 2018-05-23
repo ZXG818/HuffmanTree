@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/5/23 18:49:03。
+     1>项目“C:\Users\pc\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "生成HuffmanTree.cpp"
+         生成HuffmanTree.cpp
+     1>c:\users\pc\desktop\huffmantree\huffmantree\readfilefreq.c(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\pc\desktop\huffmantree\huffmantree\生成huffmantree.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\pc\desktop\huffmantree\huffmantree\生成huffmantree.cpp(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pc\Desktop\HuffmanTree\Debug\HuffmanTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\pc\Desktop\HuffmanTree\Debug\HuffmanTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\pc\Desktop\HuffmanTree\Debug\HuffmanTree.lib" /MACHINE:X86 Debug\readFileFreq.obj
+         "Debug\二叉树.obj"
+         "Debug\生成HuffmanTree.obj"
+         "Debug\非循环单链表.obj"
+         HuffmanTree.vcxproj -> C:\Users\pc\Desktop\HuffmanTree\Debug\HuffmanTree.exe
+     1>已完成生成项目“C:\Users\pc\Desktop\HuffmanTree\HuffmanTree\HuffmanTree.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.76
